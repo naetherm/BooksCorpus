@@ -1,5 +1,5 @@
 #!/bin/bash
 
-python get_books.sh
-python download_books.sh
-python preprocess_books.sh
+python3 /code/get_books.py
+python3 /code/download_books.py
+python3 /code/preprocess_books.py

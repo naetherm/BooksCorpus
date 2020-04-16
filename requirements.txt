@@ -3,3 +3,4 @@ cachecontrol
 lxml
 requests
 tqdm
+numpy
