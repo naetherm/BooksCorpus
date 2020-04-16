@@ -5,7 +5,7 @@ The purpose of this repository is to replicate the Toronto BooksCorpus dataset. 
 
 ## Requirements
 
-Al requirements are installed by calling `pip install --user -r requirements.txt`.
+All requirements are installed by calling `pip install --user -r requirements.txt`.
 
 ## Usage
 
