@@ -1,0 +1,5 @@
+blingfire
+cachecontrol
+lxml
+requests
+tqdm
